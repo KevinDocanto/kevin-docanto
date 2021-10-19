@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OgrinhoProgrammer
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Web Development Backend
-- 💞️ I’m looking to collaborate on web projects
+- 💞️ I’m looking to collaborate on Web projects
 - 📫 How to reach me: kevin.docanto11229@gmail.com
 
 <!---
